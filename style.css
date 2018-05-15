@@ -1,0 +1,51 @@
+*    {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-image: url(illuminated_wood-wallpaper-1920x1080.jpg);
+    background-position-x: center;
+    background-repeat: repeat-x;
+}
+.tablet {
+    margin: 15vh auto 0;
+    width: 600px;
+    height: 435px;
+    background-image: url(tablet_PNG8596.png);
+    position: absolute;
+    left: 30vw;
+    display: flex;
+}
+.tabletScren {
+    width: 240px;
+    height: 325px;
+    position: relative;
+    top: 56px;
+    left: 54px;
+    background-color: #fef1c6;
+    overflow: auto;
+}
+.centerLine {
+    width: 10px;
+    height: 325px;
+    position: relative;
+    top: 56px;
+    left: 54px;
+    background-color: aliceblue;
+}
+.tasksList {
+    margin: 10% 10%;
+}
+h3 {
+    margin: 20px 0;
+    text-align: center;
+}
+.taskText {
+    margin: 0 15%;
+}
+.taskButton {
+    margin: 10px 70px;
+}
+.hide {
+   display: none;
+}
