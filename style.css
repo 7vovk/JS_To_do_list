@@ -3,7 +3,7 @@
     margin: 0;
 }
 body {
-    background-image: url(illuminated_wood-wallpaper-1920x1080.jpg);
+    background-image: url(Pictures/illuminated_wood-wallpaper-1920x1080.jpg);
     background-position-x: center;
     background-repeat: repeat-x;
 }
@@ -11,7 +11,7 @@ body {
     margin: 15vh auto 0;
     width: 600px;
     height: 435px;
-    background-image: url(tablet_PNG8596.png);
+    background-image: url(Pictures/tablet_PNG8596.png);
     position: absolute;
     left: 30vw;
     display: flex;
